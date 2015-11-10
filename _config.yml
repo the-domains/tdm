@@ -24,6 +24,6 @@ color:
     - '#878787'
   brandStrength: 0
   lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
