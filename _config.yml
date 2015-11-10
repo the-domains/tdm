@@ -1,7 +1,7 @@
 name: TDM
 favicon: null
-layout_spectrum: 0.6243857685476542
-typography_spectrum: 0.39633646537549794
+layout_spectrum: 1
+typography_spectrum: 0.2636
 title: '#BecauseMusic'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#ababab'
     - '#878787'
   brandStrength: 0
-  lightness: 0.27953003253787756
-  saturation: 0.8796979212202132
-  rhythmicContrast: 0.9412616952322423
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
