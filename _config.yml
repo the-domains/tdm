@@ -1,0 +1,23 @@
+name: TDM
+favicon: null
+layout_spectrum: 0.6243857685476542
+typography_spectrum: 0.39633646537549794
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1886644996702671
+  lightness: 0.27953003253787756
+  saturation: 0.8796979212202132
+  rhythmicContrast: 0.9412616952322423
+purpose: []
